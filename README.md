@@ -10,7 +10,7 @@ Retos:
 1. Recorrido: el "profesor" toca la cabeza y solo se puede avanzar siguiendo las manos. Cada nodo 
 dice su dato en voz alta.
 
-<video src="https://github.com/noemi-mata/Lista-Humana/issues/1#issue-5968719182" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/be50a994-8ea7-48cc-94e5-0cf6effeb673"></video>
 
 3. Insertar al inicio: un nuevo nodo se une. Primero debe señalar al antiguo primero y después recibir 
 el gorro. Si lo hacen al revés, ¡la lista se pierde!
