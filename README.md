@@ -10,19 +10,46 @@ Retos:
 1. Recorrido: el "profesor" toca la cabeza y solo se puede avanzar siguiendo las manos. Cada nodo 
 dice su dato en voz alta.
 
-<video src="https://github.com/user-attachments/assets/be50a994-8ea7-48cc-94e5-0cf6effeb673"></video>
+<div align="center">
+  <a href="https://youtu.be/jEGzhop2J2Q">
+    <img src="https://img.youtube.com/vi/jEGzhop2J2Q/maxresdefault.jpg" alt="Ver video" width="600">
+  </a>
+</div>
 
-3. Insertar al inicio: un nuevo nodo se une. Primero debe señalar al antiguo primero y después recibir 
+2. Insertar al inicio: un nuevo nodo se une. Primero debe señalar al antiguo primero y después recibir 
 el gorro. Si lo hacen al revés, ¡la lista se pierde!
 
-4. Insertar en medio: entre el nodo 2 y el 3. Orden correcto: el nuevo señala al 3, y luego el 2 lo señala 
+<div align="center">
+  <a href="https://youtu.be/1ahGYGp4BY8">
+    <img src="https://img.youtube.com/vi/1ahGYGp4BY8/maxresdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
+
+3. Insertar en medio: entre el nodo 2 y el 3. Orden correcto: el nuevo señala al 3, y luego el 2 lo señala 
 a él.
 
-5. Eliminar un nodo: el nodo anterior "salta" y señala al siguiente del eliminado, que sale de la fila.
+<div align="center">
+  <a href="https://youtu.be/RBW2IvwM-Jg">
+    <img src="https://img.youtube.com/vi/RBW2IvwM-Jg/maxresdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
+
+4. Eliminar un nodo: el nodo anterior "salta" y señala al siguiente del eliminado, que sale de la fila.
+
+<div align="center">
+  <a href="https://youtu.be/HHKw1oOgVtw">
+    <img src="https://img.youtube.com/vi/HHKw1oOgVtw/maxresdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
  
-6. Buscar: "¿Dónde está el 7?" Solo se puede preguntar siguiendo la cadena desde la cabeza, sin 
+5. Buscar: "¿Dónde está el 7?" Solo se puede preguntar siguiendo la cadena desde la cabeza, sin 
 saltarse a nadie.
 
+<div align="center">
+  <a href="https://youtu.be/Iv583qCzejo">
+    <img src="https://img.youtube.com/vi/Iv583qCzejo/maxresdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
 
 #### Pregunta de reflexión: 
 #### ¿Se puede retroceder? 
