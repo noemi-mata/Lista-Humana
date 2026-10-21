@@ -9,17 +9,18 @@ Regla: cada nodo solo puede señalar con la mano derecha al siguiente. El últim
 Retos: 
 1. Recorrido: el "profesor" toca la cabeza y solo se puede avanzar siguiendo las manos. Cada nodo 
 dice su dato en voz alta.
-<video src="https://github.com/noemi-mata/Lista-Humana/issues/1#issue-5968719182" controls width="100%"></video>
 
-2. Insertar al inicio: un nuevo nodo se une. Primero debe señalar al antiguo primero y después recibir 
+<video src="https://github.com/user-attachments/assets/be50a994-8ea7-48cc-94e5-0cf6effeb673" controls width="100%"></video>
+
+3. Insertar al inicio: un nuevo nodo se une. Primero debe señalar al antiguo primero y después recibir 
 el gorro. Si lo hacen al revés, ¡la lista se pierde!
 
-3. Insertar en medio: entre el nodo 2 y el 3. Orden correcto: el nuevo señala al 3, y luego el 2 lo señala 
+4. Insertar en medio: entre el nodo 2 y el 3. Orden correcto: el nuevo señala al 3, y luego el 2 lo señala 
 a él.
 
-4. Eliminar un nodo: el nodo anterior "salta" y señala al siguiente del eliminado, que sale de la fila.
+5. Eliminar un nodo: el nodo anterior "salta" y señala al siguiente del eliminado, que sale de la fila.
  
-5. Buscar: "¿Dónde está el 7?" Solo se puede preguntar siguiendo la cadena desde la cabeza, sin 
+6. Buscar: "¿Dónde está el 7?" Solo se puede preguntar siguiendo la cadena desde la cabeza, sin 
 saltarse a nadie.
 
 
