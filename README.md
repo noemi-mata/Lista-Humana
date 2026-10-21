@@ -30,7 +30,7 @@ a él.
 
 <div align="center">
   <a href="https://youtu.be/RBW2IvwM-Jg">
-    <img src="https://img.youtube.com/vi/RBW2IvwM-Jg/maxresdefault.jpg" alt="Ver video del proyecto" width="600">
+    <img src="https://img.youtube.com/vi/RBW2IvwM-Jg/hqdefault.jpg" alt="Ver video del proyecto" width="600">
   </a>
 </div>
 
@@ -38,7 +38,7 @@ a él.
 
 <div align="center">
   <a href="https://youtu.be/HHKw1oOgVtw">
-    <img src="https://img.youtube.com/vi/HHKw1oOgVtw/maxresdefault.jpg" alt="Ver video del proyecto" width="600">
+    <img src="https://img.youtube.com/vi/HHKw1oOgVtw/hqdefault.jpg" alt="Ver video del proyecto" width="600">
   </a>
 </div>
  
@@ -47,7 +47,7 @@ saltarse a nadie.
 
 <div align="center">
   <a href="https://youtu.be/Iv583qCzejo">
-    <img src="https://img.youtube.com/vi/Iv583qCzejo/maxresdefault.jpg" alt="Ver video del proyecto" width="600">
+    <img src="https://img.youtube.com/vi/Iv583qCzejo/hqdefault.jpg" alt="Ver video del proyecto" width="600">
   </a>
 </div>
 
