@@ -115,6 +115,12 @@ Regla: el último nodo señala con su mano derecha a la cabeza (ya no hay null).
 
 Retos: 
 1. La papa caliente: pasen una pelota siguiendo los punteros mientras suena una canción. Cuando  para, quien la tiene hace una pregunta o un reto. (Esto demuestra que nunca se llega al final.)
+
+<div align="center">
+  <a href="https://youtu.be/OiOKHuqfENs">
+    <img src="https://img.youtube.com/vi/OiOKHuqfENs/hqdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
   
 2. El peligro del ciclo infinito: pidan a un voluntario que recorra "hasta encontrar null". ¡Nunca lo  encontrará! Hagan que digan en voz alta la condición de parada correcta: "me detengo cuando  vuelvo a la cabeza".
    
