@@ -12,7 +12,7 @@ dice su dato en voz alta.
 
 <div align="center">
   <a href="https://youtu.be/jEGzhop2J2Q">
-    <img src="https://img.youtube.com/vi/jEGzhop2J2Q/maxresdefault.jpg" alt="Ver video" width="600">
+    <img src="https://img.youtube.com/vi/jEGzhop2J2Q/hqdefault.jpg" alt="Ver video del proyecto" width="600">
   </a>
 </div>
 
