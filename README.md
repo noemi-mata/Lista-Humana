@@ -2,6 +2,19 @@
 
 ## Actividad Nodos
 
+Nolasco Rivera Ángel de Jesus
+Mata Ruiz Noemi
+Aguilar Hernández Jonathan Venancio
+Camacho Gomez Jenny Alexandra
+Camarillo Solano Ángel Nahum
+Campuzano Hernández Luis Fernando
+Gonzalez Hernández Juan Eduardo
+Gonzalez Rendon Ricardo
+Hernández Exiga Jesus Manuel
+Ontiveros Nolasco Marcos
+Sánchez Cárdenas Yaneli
+
+
 ### Ronda 1: Lista Simple ("el tren humano")
 
 Regla: cada nodo solo puede señalar con la mano derecha al siguiente. El último señala al suelo (null).
