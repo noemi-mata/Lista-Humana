@@ -66,13 +66,36 @@ Regla: ahora cada nodo usa ambas manos. La derecha señala al siguiente y la izq
 
 Retos: 
 1. Recorrido hacia adelante y hacia atrás: el docente grita "¡Adelante!" o "¡Atrás!" y se pasa un objeto  (una pelota) en esa dirección.
+
+<div align="center">
+  <a href="https://youtu.be/FkWUkdkBKKg">
+    <img src="https://img.youtube.com/vi/FkWUkdkBKKg/hqdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
   
 2. Insertar en medio: ahora hay que arreglar 4 punteros (el nuevo señala a sus dos vecinos y los dos  vecinos lo señalan a él). Cronometren cuánto tarda cada equipo.
+
+<div align="center">
+  <a href="https://youtu.be/qfJfY8KjFBw">
+    <img src="https://img.youtube.com/vi/qfJfY8KjFBw/hqdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
    
 3. Eliminar sin conocer al anterior: el nodo a eliminar levanta la mano y dice "¡yo me elimino!".  Gracias a su mano izquierda, él mismo conecta a sus dos vecinos.
+
+<div align="center">
+  <a href="https://youtu.be/NlH0gJKJHwY">
+    <img src="https://img.youtube.com/vi/NlH0gJKJHwY/hqdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
    
 4. Invertir la lista: cada nodo intercambia sus manos (siguiente ↔ anterior) y la cabeza pasa a la cola.
 
+<div align="center">
+  <a href="https://youtu.be/0FDm3SgRrUc">
+    <img src="https://img.youtube.com/vi/0FDm3SgRrUc/hqdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
    
 #### Pregunta de reflexión: 
 #### ¿Qué ventaja tuvo la doble sobre la simple? 
@@ -117,7 +140,20 @@ Cada equipo recibe una "orden" escrita en un papel y debe ejecutarla en un tiemp
 
 ## DESAFIO RONDA 1
 
+### TENES UNA LISTA SIMPLE DE 5 NODOS. INSERTA UN NODO NUEVO AL INICIO Y ELIMINA EL ULTIMO
+
+### LISTA SIMPLE DE 6 NODOS. ELIMINA EL PRIMERO INDICA QUIEN ES LA NUEVA CABEZA
+
 ## DESAFIO RONDA 2
+
+### LISTA DOBLE DE 5 NODOS INTERCAMBIA DE LUGAR EL 2 Y EL 4 NODO SIN SACAR A NADIE DE LA FILA
+
+### LISTA DOBLE DE 6 NODOS, INVIERTE LA LISTA COMPLETA
+<div align="center">
+  <a href="https://youtu.be/0FDm3SgRrUc">
+    <img src="https://img.youtube.com/vi/0FDm3SgRrUc/hqdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
 
 ## DESAFIO RONDA 3
 
