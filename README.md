@@ -144,15 +144,31 @@ Otros casos: el cambio de luces de un semáforo, o las ventanas que se alternan 
 
 Cada equipo recibe una "orden" escrita en un papel y debe ejecutarla en un tiempo límite, sin errores de  punteros.
 
-## DESAFIO RONDA 1
+## DESAFIOS
 
 ### TENES UNA LISTA SIMPLE DE 5 NODOS. INSERTA UN NODO NUEVO AL INICIO Y ELIMINA EL ULTIMO
 
+<div align="center">
+  <a href="https://youtu.be/aetzkVYkEfU">
+    <img src="https://img.youtube.com/vi/aetzkVYkEfU/hqdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
+
 ### LISTA SIMPLE DE 6 NODOS. ELIMINA EL PRIMERO INDICA QUIEN ES LA NUEVA CABEZA
 
-## DESAFIO RONDA 2
+<div align="center">
+  <a href="https://youtu.be/lc11RLQ4ukc">
+    <img src="https://img.youtube.com/vi/lc11RLQ4ukc/hqdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
 
 ### LISTA DOBLE DE 5 NODOS INTERCAMBIA DE LUGAR EL 2 Y EL 4 NODO SIN SACAR A NADIE DE LA FILA
+
+<div align="center">
+  <a href="https://youtu.be/5aBjEbduXu4">
+    <img src="https://img.youtube.com/vi/5aBjEbduXu4/hqdefault.jpg" alt="Ver video del proyecto" width="600">
+  </a>
+</div>
 
 ### LISTA DOBLE DE 6 NODOS, INVIERTE LA LISTA COMPLETA
 <div align="center">
@@ -160,7 +176,3 @@ Cada equipo recibe una "orden" escrita en un papel y debe ejecutarla en un tiemp
     <img src="https://img.youtube.com/vi/0FDm3SgRrUc/hqdefault.jpg" alt="Ver video del proyecto" width="600">
   </a>
 </div>
-
-## DESAFIO RONDA 3
-
-
